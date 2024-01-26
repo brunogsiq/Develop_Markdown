@@ -1,2 +1,5 @@
-## Pré - visualizar arquivo
-    `Ctrl + Shift + V`
+# Para realizar uma pré-visualização do código, utilize o seguinte comando:
+
+```
+Crtl + Shift + V
+```
